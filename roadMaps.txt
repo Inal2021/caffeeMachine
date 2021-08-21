@@ -1,3 +1,5 @@
+***Diese Projekt ist besonders wichtig für mich!!! ich habe allein erste machende Projekt. Das heißt, dass das meine erste Erfahrung ist.
+
 1. Basit bir Kahve makinesi oluþturun.    3 çeþit kahvemiz olsun.
 	  2. Sistem þu soruyu sorsun: "Hangi Kahveyi istersiniz?"
 	  3.Bu soru ile birlikte kullanýcý kahve bilgilerini görsün.
